@@ -87,6 +87,8 @@ enum DeviceType {
 
   wiseCube,
 
+  localMobile,
+
   unknown
 }
 
